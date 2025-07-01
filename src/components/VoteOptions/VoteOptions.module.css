@@ -1,0 +1,26 @@
+.container {
+  display: flex;
+  gap: 10px;
+  padding: 10px;
+}
+
+.button {
+  color: #ffffff;
+  background-color: rgb(40, 40, 253);
+  width: 80px;
+  height: 34px;
+  border: 0;
+  border-radius: 10px;
+}
+
+.button:hover {
+  background-color: rgb(2, 2, 180);
+}
+
+.reset {
+  background-color: red;
+}
+
+.reset:hover {
+  background-color: rgb(188, 6, 6);
+}
